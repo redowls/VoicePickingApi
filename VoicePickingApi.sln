@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VoicePickingApi", "VoicePickingApi\VoicePickingApi.csproj", "{60A48DC3-817B-492A-AD47-AFB5ACD527D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60A48DC3-817B-492A-AD47-AFB5ACD527D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60A48DC3-817B-492A-AD47-AFB5ACD527D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60A48DC3-817B-492A-AD47-AFB5ACD527D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60A48DC3-817B-492A-AD47-AFB5ACD527D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E97F05F3-42F6-4647-AE8C-AD319053A629}
+	EndGlobalSection
+EndGlobal
